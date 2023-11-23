@@ -1,0 +1,51 @@
+{
+  "user": [
+    {
+      "id": 6,
+      "name": "priya up",
+      "email": "priya@april.biz",
+      "phone": "483-234-2435 X56442",
+      "website": "luminovate.org"
+    },
+    {
+      "id": 7,
+      "name": "pooja Permeshwar",
+      "email": "pooja@april.biz",
+      "phone": "1-345-654-5343 X56442",
+      "website": "quantumhorizon.net"
+    },
+    {
+      "id": 8,
+      "name": "Tejas Graham",
+      "email": "Tejas@april.biz",
+      "phone": "1-770-563-7854 X56442",
+      "website": "serenovia.com"
+    },
+    {
+      "id": 9,
+      "name": "tanuja Graham",
+      "email": "tanuja@april.biz",
+      "phone": "1-453-564-3563 X56442",
+      "website": "aetherpulse.io"
+    },
+    {
+      "id": 10,
+      "name": "chitanya Graham",
+      "email": "chitanya@april.biz",
+      "phone": "1-345-564-3454 X56442",
+      "website": "infinitebeacon.org"
+    },
+    {
+      "name": "Nisarga",
+      "email": "nisargasm43@gmail.com",
+      "phone": "+917338525473",
+      "id": 11
+    },
+    {
+      "name": "priya singh",
+      "email": "fdfdv@gmail.com",
+      "phone": "+917338525473",
+      "id": 12
+    }
+  ]
+}
